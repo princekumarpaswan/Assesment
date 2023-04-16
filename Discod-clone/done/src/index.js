@@ -11,4 +11,4 @@ const ClickSide = () => {
 }
 
 const button = document.getElementById("button").addEventListener("click", Click)
-const crossbtn = document.getElementById("crossbtn").addEventListener("click", ClickSide)
+// const crossbtn = document.getElementById("crossbtn").addEventListener("click", ClickSide)
